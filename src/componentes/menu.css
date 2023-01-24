@@ -1,0 +1,30 @@
+label {
+    margin-right: 15px;
+    font-size: x-large;
+    font-weight: bold;
+}
+select {
+    margin-right: 30px;
+    width: 20%;
+    height: 30px;
+    font-size: large;
+    background-color: #233659;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+input {
+    margin-right: 60px;
+    font-size: large;
+    height: 30px;
+}
+.Btn {
+    margin-right: 30px;
+    width: 20%;
+    height: 30px;
+    font-size: large;
+    background-color: #666666;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
